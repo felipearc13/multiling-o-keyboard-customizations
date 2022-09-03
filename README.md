@@ -19,10 +19,6 @@ Added customizations to get the best performance in Android development.
 
 **2** - In the [Multiling O Keyboard](https://play.google.com/store/apps/details?id=kl.ime.oh&hl=pt_BR&gl=US), go to "**Settings > Misc. > Import | Export > Settings**"  and paste the previously copied content
 
-**3** - Copy theme content: [202209246.theme.mok.txt](https://github.com/felipearc13/OKeyboard-settings/blob/main/202209246.theme.mok.txt)
-
-**4** - In the [Multiling O Keyboard](https://play.google.com/store/apps/details?id=kl.ime.oh&hl=pt_BR&gl=US), go to  "**Settings > Misc. > Import | Export > Theme**" and paste the previously copied content
-
 ## Source
 - **Developer website**: http://honsoapps.appspot.com/1/1.html
 - **App Download**: https://play.google.com/store/apps/details?id=kl.ime.oh&hl
