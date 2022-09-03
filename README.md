@@ -13,10 +13,11 @@ Added customizations to get the best performance in Android development.
 <img src="https://raw.githubusercontent.com/felipearc13/OKeyboard-settings/main/screenshot/Screenshot_2022-09-03-17-05-19-631_com.android.fileexplorer.png" width="500">
 
 ## Installation
-**1** - Copy content in [202209246.settings.mok.txt](https://github.com/felipearc13/OKeyboard-settings/blob/main/202209246.settings.mok.txt), 
-In [Multiling O Keyboard](https://play.google.com/store/apps/details?id=kl.ime.oh&hl=pt_BR&gl=US) access  **Settings > Misc. > Import | Export > Settings** and **PASTE**.
+**1** - Copy content in [202209246.settings.mok.txt](https://github.com/felipearc13/OKeyboard-settings/blob/main/202209246.settings.mok.txt)
 
-**2** - Repeat the process with the themes file: [202209246.theme.mok.txt](https://github.com/felipearc13/OKeyboard-settings/blob/main/202209246.theme.mok.txt)
+**2** - In [Multiling O Keyboard](https://play.google.com/store/apps/details?id=kl.ime.oh&hl=pt_BR&gl=US) access  "**Settings > Misc. > Import | Export > Settings**" and **PASTE**.
+
+**3** - Repeat the process with the themes file: [202209246.theme.mok.txt](https://github.com/felipearc13/OKeyboard-settings/blob/main/202209246.theme.mok.txt)
 
 **Source**: http://honsoapps.appspot.com/1/1.html
 
