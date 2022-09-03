@@ -19,23 +19,25 @@ __S.emj8::<(`^´)>%0A(๑•́%20₃%20•̀๑)%0A(ง°▼°)ง%0A(っ´▽`)
 __I.bk::::S
 __S.emj1::★%0A☆%0A✦%0A✧%0A✩%0A✪%0A✫%0A✬%0A✭%0A✮%0A✯%0A✰%0A✱%0A✲%0A✳%0A※%0A✴%0A✵%0A✶%0A✷%0A✸%0A✹%0A✺%0A✻%0A✼%0A✽%0A✾%0A✿%0A❀%0A❁%0A❂%0A❃%0A❄%0A❅%0A❆%0A❇%0A❈%0A❉%0A❊%0A❋%0A☠%0A☡%0A☢%0A☣%0A☤%0A☥%0A☦%0A☧%0A☨%0A☩%0A☪%0A☫%0A☬%0A☭%0A☮%0A☯::S
 __S.emj2::←%0A↚%0A→%0A↛%0A↑%0A↓%0A↔%0A↮%0A↕%0A↖%0A↗%0A↘%0A↙%0A↜%0A↝%0A↞%0A↟%0A↠%0A↡%0A↢%0A↣%0A↤%0A↥%0A↦%0A↧%0A↨%0A↩%0A↪%0A↫%0A↬%0A↭%0A↯%0A↰%0A↱%0A↲%0A↳%0A↴%0A↵%0A↶%0A↷%0A↸%0A↹%0A↺%0A↻%0A↼%0A↽%0A↾%0A↿%0A⇀%0A⇁%0A⇂%0A⇃%0A⇄%0A⇅%0A⇆%0A⇇%0A⇈%0A⇉%0A⇊%0A⇋%0A⇌%0A⇐%0A⇍%0A⇑%0A⇒%0A⇏%0A⇓%0A⇔%0A⇎%0A⇕::S
-__S.emj0::-::S
+__S.emj0::🎄%0A🎅%0A-::S
 __S.emj5::¼%0A½%0A¾%0A⅓%0A¼%0A⅛%0A√%0A℃%0A℉%0A∴%0A∵%0A∶%0A∷%0A⋮%0A∞%0A∝%0A∃%0A∟%0A∠%0A∧%0A∨%0A∀%0A∩%0A∪%0A凵%0A⊿%0A∂%0A∫%0A∬%0A∮%0A∏%0A∼%0A∽%0A≅%0A≒%0A≠%0A≡%0A≤%0A≥%0A≦%0A≧%0A≪%0A≫%0A⊕%0A⊗%0A⊙%0A⋅%0A×%0A╭%0A∑%0A∗%0A∙%0A∣%0A∥%0A≈%0A≌%0A≢%0A≣%0A⊥%0A∉%0A∋%0A∌%0A⊂%0A⊃%0A⊄%0A⊅%0A⊆%0A⊇%0A⅕%0A⅙::S
 __S.emj6::$%0A¢%0A£%0A¤%0A¥%0A₽%0A֏%0A؋%0A৲%0A৳%0A৻%0A૱%0A௹%0A฿%0A៛%0A₠%0A₡%0A₢%0A₣%0A₤%0A₥%0A₦%0A₧%0A₨%0A₩%0A₪%0A₫%0A€%0A₭%0A₮%0A₯%0A₰%0A₱%0A₲%0A₳%0A₴%0A₵%0A₶%0A₷%0A₸%0A₹%0A꠸%0A﷼%0A﹩%0A＄%0A￠%0A￡%0A￥%0A￦%0A✘%0A✔%0A✓%0A√%0A♩%0A♪%0A♭%0A♯%0A♬%0Aℒ%0Aℳ%0A◀%0A▶%0A▼%0A▲%0A◣%0A◥%0A◢%0A◤%0A◆%0A∆%0A∇%0A☜%0A☞%0A☏%0A✆::S
-__S.emj3::⇖%0A⇗%0A⇘%0A⇙%0A⇚%0A⇛%0A⇜%0A⇝%0A⇞%0A⇟%0A⇠%0A⇡%0A⇢%0A⇣%0A⇤%0A⇥%0A⇦%0A⇧%0A⇨%0A⇩%0A⇪%0A⇫%0A⇬%0A⇭%0A⇮%0A⇯%0A⇰%0A⇱%0A⇲%0A⇳%0A⇴%0A⇵%0A⇶%0A⇷%0A⇸%0A⇹%0A⇺%0A⇻%0A⇼%0A⇽%0A⇾%0A⇿%0A➘%0A➙%0A➚%0A➛%0A➜%0A➝%0A➞%0A➟%0A➠%0A➡%0A➢%0A➣%0A➤%0A➥%0A➦%0A➧%0A➨%0A➩%0A➪%0A➫%0A➬%0A➭%0A➮%0A➯%0A➰%0A➱%0A➲%0A➳%0A➴%0A➵%0A➶%0A➷%0A➸%0A➹%0A➺%0A➻%0A➼%0A➽%0A➾%0A➿%0A::S
+__S.emj3::⇖%0A⇗%0A⇘%0A⇙%0A⇚%0A⇛%0A⇜%0A⇝%0A⇞%0A⇟%0A⇠%0A⇡%0A⇢%0A⇣%0A⇤%0A⇥%0A⇦%0A⇧%0A⇨%0A⇩%0A⇪%0A⇫%0A⇬%0A⇭%0A⇮%0A⇯%0A⇰%0A⇱%0A⇲%0A⇳%0A⇴%0A⇵%0A⇶%0A⇷%0A⇸%0A⇹%0A⇺%0A⇻%0A⇼%0A⇽%0A⇾%0A⇿%0A➘%0A➙%0A➚%0A➛%0A➜%0A➝%0A➞%0A➟%0A➠%0A➡%0A➢%0A➣%0A➤%0A➥%0A➦%0A➧%0A➨%0A➩%0A➪%0A➫%0A➬%0A➭%0A➮%0A➯%0A➰%0A➱%0A➲%0A➳%0A➴%0A➵%0A➶%0A➷%0A➸%0A➹%0A➺%0A➻%0A➼%0A➽%0A➾%0A➿%0A%20%20%20%20::S
 __S.emj4::♔%0A♕%0A♖%0A♗%0A♘%0A♙%0A♚%0A♛%0A♜%0A♝%0A♞%0A♟%0A♠%0A♡%0A♢%0A♣%0A♤%0A♥%0A♦%0A♧%0A♨%0A♩%0A♪%0A♫%0A♬%0A♭%0A♯%0A⚀%0A⚁%0A⚂%0A⚃%0A⚄%0A⚅%0A⚆%0A⚇%0A⚈%0A⚉%0A⚊%0A⚋%0A⚌%0A⚍%0A⚎%0A⚏%0A⚐%0A⚑%0A⚒%0A⚓%0A⚔%0A⚕%0A⚖%0A⚗%0A⚘%0A⚙%0A⚚%0A⚛%0A⚜%0A⚝%0A⚞%0A⚟%0A⚠%0A⚡%0A⚢%0A⚣%0A⚤%0A⚥%0A⚦%0A⚧%0A⚨%0A⚩%0A⚪%0A⚫%0A⚬%0A⚭%0A⚮%0A⚯%0A⚰%0A⚱%0A⚲%0A⚳%0A⚴%0A⚵%0A⚶%0A⚷%0A⚸%0A⚹%0A⚺%0A⚻%0A⚼%0A⚽%0A⚾%0A⚿%0A⛀%0A⛁%0A⛂%0A⛃::S
+__Multi-tappt::{%0A"title":"Multi-tap",%0A"onScreen":{%0A"main":[%0A"[4D:~[HOME][PGUP][END][PGDN]][MT:'@01][MT:abc2][MT:def3][4D:=[DEL][CUT][WDel][FDel]][DEL]",%0A"[FN:!][MT:ghi4][MT:jkl5][MT:mno6][4D:+[LEFT][UP][RIGHT][DOWN]][EDIT:?]",%0A"[SHIFT][MT:pqrs7][MT:tuv8][MT:wxyz9][4D:-[W.LEFT][COPY][W.RIGHT][PASTE]][123:[MT]]",%0A"[TOOL][ALTGR:,][SPACE][][SYM:.][ENTER]"%0A],%0A%0A"prediction":{%0A"MT":true%0A}%0A%0A}%0A}::S
 __L.lang::[LANGS][IME][LAYOUTS]%0A[LANG:04][LANG:07][LAYOUT:04]%0A[LANG:03][LANG:06][LAYOUT:03]%0A[LANG:02][LANG:05][LAYOUT:02]%0A[LANG:01][LANG:00][LAYOUT:01]::S
 __PK.pk::true::B
 __Zh.fws::false::B
 __I.sp2::.?!:,…::S
 __I.es::false::B
-__V.brh::50::I
+__V.brh::45::I
 __K.asw::false::B
 __K.pd::0::I
 __I.vo::false::B
 __TE.rt::100::S
-__I.tr::[SEARCH]%0A[SAVE]%0A[COPY]%0A[CUT]%0A[TR:abc-def]%0A[TR:removeSpace]%0A[TR:abc_def]%0A[TR:[LEFTBRACKET]abc[RIGHTBRACKET]]%0A[TR:'abc']%0A[TR:"abc"]%0A[TR:(abc)]%0A[TR:exotic]%0A[TR:wide]%0A[TR:circle]%0A[TR:lower]%0A[TR:UPPER]%0A[TR:BIG]%0A[TR:upsidedown]%0A[TR:1stlettercaps]%0A[TR:removeaccent]%0A[TR:blackcircle]%0A[TR:strikethrough]%0A[TR:underline]%0A[TR:smallcaps]%0A[TR:a|b|c]%0A[TR:a.b.c]%0A[TR:a~b~c]%0A[TR:a_b_c]%0A[TR:doublevision]%0A[TR:canadian]%0A[TR:🄰🄱🄲]%0A[TR:🅰🅱🅲]%0A[TR:{abc}]%0A[TR:<abc>]%0A[TR:《abc》]%0A[TR:『abc』]%0A[TR:「abc」]%0A[TR:【abc】]%0A[TR:丹乃匚刀モ下ム卄工ＪＫㄥ爪れ口ㄗＱ尺ち匕∪∨山メㄚ乙]%0A[TR:ค๒ς๔єŦﻮђเןкl๓ภ๏קợгรtยשฬץאz]%0A[TR:ᵃᵇᶜᵈᵉᶠᵍʰⁱʲᵏˡᵐⁿᵒᵖqʳˢᵗᵘᵛʷˣʸᶻᴬᴮᶜᴰᴱᶠᴳᴴᴵᴶᴷᴸᴹᴺᴼᴾQᴿˢᵀᵁⱽᵂˣʸᶻ]%0A::S
+__I.tr::[SEARCH]%0A[SAVE]%0A[COPY]%0A[CUT]%0A[TR:abc-def]%0A[TR:removeSpace]%0A[TR:abc_def]%0A[TR:[LEFTBRACKET]abc[RIGHTBRACKET]]%0A[TR:'abc']%0A[TR:"abc"]%0A[TR:(abc)]%0A[TR:exotic]%0A[TR:wide]%0A[TR:circle]%0A[TR:lower]%0A[TR:UPPER]%0A[TR:BIG]%0A[TR:upsidedown]%0A[TR:1stlettercaps]%0A[TR:removeaccent]%0A[TR:blackcircle]%0A[TR:strikethrough]%0A[TR:underline]%0A[TR:smallcaps]%0A[TR:a|b|c]%0A[TR:a.b.c]%0A[TR:a~b~c]%0A[TR:a_b_c]%0A[TR:doublevision]%0A[TR:canadian]%0A[TR:🄰🄱🄲]%0A[TR:🅰🅱🅲]%0A[TR:{abc}]%0A[TR:<abc>]%0A[TR:《abc》]%0A[TR:『abc』]%0A[TR:「abc」]%0A[TR:【abc】]%0A[TR:丹乃匚刀モ下ム卄工ＪＫㄥ爪れ口ㄗＱ尺ち匕∪∨山メㄚ乙]%0A[TR:ค๒ς๔єŦﻮђเןкl๓ภ๏קợгรtยשฬץאz]%0A[TR:ᵃᵇᶜᵈᵉᶠᵍʰⁱʲᵏˡᵐⁿᵒᵖqʳˢᵗᵘᵛʷˣʸᶻᴬᴮᶜᴰᴱᶠᴳᴴᴵᴶᴷᴸᴹᴺᴼᴾQᴿˢᵀᵁⱽᵂˣʸᶻ]%0A%20%20%20%20::S
 __L.emj::[EMJ:36][EMJ:01][EMJ:02][EMJ:03][EMJ:04][EMJ:05][EMJ:06][EMJ:07][EMJ:08]%0A[EMJ:09][EMJ:10][EMJ:11][EMJ:12][EMJ:13][EMJ:14][EMJ:15][EMJ:16][EMJ:17]%0A[EMJ:18][EMJ:19][EMJ:20][EMJ:21][EMJ:22][EMJ:23][EMJ:24][EMJ:25][EMJ:26]%0A[EMJ:27][EMJ:28][EMJ:29][EMJ:30][EMJ:31][EMJ:32][EMJ:33][EMJ:34][EMJ:35]%0A[LOCK][EMJ:00][SPACE][][DEL][ENTER]::S
+__DIY-2pt::[XK:1!¹½⅓¼⅕⅙⅐⅛⅑⅒][XK:2@²⅔⅖][XK:3#³¾⅗⅜][XK:4$⁴⅘][XK:5%⁵⅚⅝][4D:%20[LEFT][UP][RIGHT][DOWN]][XK:6^⁶][XK:7&⁷⅞][XK:8*⁸][XK:9[CTRL](⁹][XK:0[TAB])⁰ⁿ∅]%0A[XK:q%][XK:w\][XK:e|éèêëėęē][XK:r=][XK:t[]y[XK:u<úûùūü][XK:i>íìîīïį][XK:o{óõôòöœøōº][XK:p}]%0A[TAB][XK:a@áãàâāªæåä][XK:s#ß][XK:d$][XK:f_][XK:g&][XK:h-][XK:j+][XK:k(][XK:l)][CTRL]%0A[XK:z*][XK:x"][XK:c'çćč][XK:v:][XK:b;][XK:n!ñ][XK:m?]%0A!@#$%^&*()%0A[XK:Q%][XK:W\][XK:E|ÉÈÊËĖĘĒ][XK:R=][XK:T[]Y[XK:U<ÚÛÙŪÜ][XK:I>ÍÌÎĪÏĮ][XK:O{ÓÕÔÒÖŒØŌº][XK:P}]%0A[TAB][XK:A@ÁÃÀÂĀªÆÅÄ][XK:S#SS][XK:D$][XK:F_][XK:G&][XK:H-][XK:J+][XK:K(][XK:L)][CTRL]%0A[XK:Z*][XK:X"][XK:C'ÇĆČ][XK:V:][XK:B;][XK:N!Ñ][XK:M?]%0A!@#$%^%20&*[CTRL][TAB]%0A%\|=[]<>{}%0A%20@#$_&-+()%20%0A*"':;!?%0Aˉˋˇ´¨˙˚¸﹐˛˘˜ˆ%0A―∑éə®†Ωœøπ•·¡%0Aæß∂ðƒ©ªº∆≠℥∞¿%0AʒΩ≈çþ∫ŋµ≤≥°::S
 __K.sfs::true::B
 __CN::false::B
 __MDFR::v+´=ǘ%0A:+.=😶%0Ae+˜=ẽ%0Ay+˜=ỹ::S
@@ -49,26 +51,27 @@ __Zh.hz::0::I
 __Zh.gl::false::B
 __K.pp::true::B
 __I.ttc::false::B
-__V.H::756::I
+__V.H::785::I
 __I.crc::false::B
 __I.nwp::true::B
 __V.W::1080::I
-__V.Y::1509::I
+__V.Y::1480::I
 __V.X::0::I
-__V.bm::30::I
+__V.bm::18::I
 __Zh.jl::true::B
 __I.isbs::false::B
 __K.skb::false::B
 __V.sm::false::B
-__K.th::40::I
+__K.th::38::I
 __K.fs2::82::I
 __PK.lk::204::S
 __UD.sz::1000::S
-__K.rx::25.0::F
+__K.rx::23.0::F
 __L.ncb::true::B
 __K.sa::true::B
+__lopt::433809351690::L
 __I.APFR::false::B
-__V.bh::45::I
+__V.bh::39::I
 __V.ds::true::B
 __PK.vk::false::B
 __I.pwlm::3::S
@@ -76,21 +79,22 @@ __I.hok::true::B
 __K.gs01::[SHIFT-X]::S
 __K.gs02::[RIGHT]::S
 __K.gs03::[SYM-X]::S
+__DIYs.pt::Multi-tap%0ADIY-2::S
 __K.el::true::B
 __PK.stk::false::B
 __K.vb::0::S
 __V.dt::true::B
 __K.gs00::[CURSOR]::S
-__V.tm::50::I
+__V.tm::66::I
 __I.gml::true::B
 __I.asp::[LANG:01]::S
 __V.fs::false::B
 __K.gs23::[DOWN]::S
-__K.gh::30::I
+__K.gh::15::I
 __K.gi::0::S
-__AP.seq::a%20+%20`%20⇒%20à::S
+__AP.seq::`%20+%20a%20⇒%20à::S
 __V.co14::aaadc4d3::X
-__K.gw::5::I
+__K.gw::10::I
 __V.co13::ffbfbfbc::X
 __V.co12::3d000000::X
 __V.co11::ffffffff::X
@@ -110,7 +114,7 @@ __V.co6::0::X
 __S.emj55::-::S
 __V.co7::2000000::X
 __S.emj52::-::S
-__V.co4::ffadc4d3::X
+__V.co4::ff63757c::X
 __S.emj53::-::S
 __V.co5::ff99d6d1::X
 __K.gs12::[END]::S
@@ -129,8 +133,8 @@ __I.acr::[LANG:02]::S
 __V.fd::true::B
 __K.snd::0::S
 __K.lpl::true::B
-__K.fs::100::I
-__V.FB::true::B
+__K.fs::92::I
+__V.FB::false::B
 __I.VNI::true::B
 __lc::pt,en,,,,,,,,,,,,,,,,,,,,,::S
 __K.gs10::[HOME]::S
@@ -138,14 +142,14 @@ __I.asw::true::B
 __K.gs11::[COPY]::S
 __V.co2::ffffffff::X
 __V.co3::ffffff::X
-__V.co0::f93f444c::X
+__V.co0::e00a191e::X
 __V.co1::0::X
 __S.emj43::-::S
 __S.emj44::-::S
 __I.shs::10::S
 __S.emj41::-::S
 __S.emj42::-::S
-__C.p::[SEARCH]%0A?%0A!%0A:%0A;%0A'…'%0A[CTRL]%0A"…"%0A(…)%0A[CTRL]%0A{…}%0A¡…!%0A¿…?%0A<!--…-->%0A[U+…]%0A[…]%0A‹…›%0A«…»%0A‚…’%0A„…”%0A♪…♪%0A*…*%0A-…-%0A_…_%0A‘…’%0A“…”%0A[INFO]%0ADate:{{MMM%20dd,%20yyyy}}%0ATime:{{h:mm%20a}}%0A[COPY]%0A[PASTE]%0A★%0A※%0A™%0A♥%0A☺%0A:)%0A🙈🙉🙊%0A❥%0A『…』%0A「…」%0A【…】%0A《…》%0A❛…❜%0A❝…❞%0A[MC:[CTRL]z:undo]%0A[MC:[SHIFT][CTRL]z:redo]%0A〖…〗%0A〘…〙%0A〔…〕%0A、%0AD๑พทℓ๑α∂%20Mบℓтïℓïทg👍OKεγв๑αя∂%20https://play.google.com/store/apps/details?id=kl.ime.oh%20⇦ԅ(ˆ。ˆԅ)%20🆒🆕‌🐌🐚🇴‌🇰‌🇪‌🇾‌🇧‌🇴‌🇦‌🇷‌🇩🐞🐙🆓🆗%20#Multiling%20#OKeyboard%20#Android%0A•.¸¸.•♥•.¸¸.•♥♥•.¸¸.•♥•.¸¸.•%0Aø,¸¸,ø¤º°`°º¤%0A¤%0A˚%0A♬…♬%0A•%0A·%0AOKeyboard.M@gmail.com::S
+__C.p::[SEARCH]%0A?%0A!%0A:%0A;%0A'…'%0A"…"%0A(…)%0A{…}%0A¡…!%0A¿…?%0A<!--…-->%0A[U+…]%0A[…]%0A‹…›%0A«…»%0A‚…’%0A„…”%0A♪…♪%0A*…*%0A-…-%0A_…_%0A‘…’%0A“…”%0A[INFO]%0ADate:{{MMM%20dd,%20yyyy}}%0ATime:{{h:mm%20a}}%0A[COPY]%0A[PASTE]%0A★%0A※%0A™%0A♥%0A☺%0A:)%0A🙈🙉🙊%0A❥%0A『…』%0A「…」%0A【…】%0A《…》%0A❛…❜%0A❝…❞%0A[MC:[CTRL]z:undo]%0A[MC:[SHIFT][CTRL]z:redo]%0A〖…〗%0A〘…〙%0A〔…〕%0A、%0AD๑พทℓ๑α∂%20Mบℓтïℓïทg👍OKεγв๑αя∂%20https://play.google.com/store/apps/details?id=kl.ime.oh%20⇦ԅ(ˆ。ˆԅ)%20🆒🆕‌🐌🐚🇴‌🇰‌🇪‌🇾‌🇧‌🇴‌🇦‌🇷‌🇩🐞🐙🆓🆗%20#Multiling%20#OKeyboard%20#Android%0A•.¸¸.•♥•.¸¸.•♥♥•.¸¸.•♥•.¸¸.•%0Aø,¸¸,ø¤º°`°º¤%0A¤%0A˚%0A♬…♬%0A•%0A·%0AOKeyboard.M@gmail.com::S
 __koh::false::B
 __S.emj40::-::S
 __PK.rk::true::B
@@ -170,18 +174,18 @@ __DIY123.d::diy123pt::S
 __K.ss1::true::B
 __S.emj32::🔺%0A🔴%0A🔵%0A🔻%0A⬜%0A⬛%0A🔶%0A◼%0A◻%0A◾%0A◽%0A▪%0A▫%0A🔲%0A🔳%0A⚫%0A⚪%0A🔷%0A🔸%0A🔹%0A©%0A®%0A™%0A❌%0A❗%0A‼%0A⁉%0A❓%0A❕%0A❔%0A⭕%0A🈁%0A🔟%0A️➕%0A➖%0A➗%0A✖%0A💮%0A🔘%0A🔗%0A〽%0Aℹ%0A1⃣%0A2⃣%0A3⃣%0A4⃣%0A5⃣%0A6⃣%0A7⃣%0A8⃣%0A9⃣%0A0⃣%0A#⃣%0A⏸%0A⏹%0A⏺::S
 __I.TLX::true::B
-__S.emj33::🈂%0A🈯%0A🈳%0A🈵%0A🈴%0A🈲%0A🉐%0A🈹%0A🈺%0A🈶%0A🈚%0A🈷%0A🈸%0A🉑%0A㊙%0A㊗%0A::S
-__S.emj30::🔝%0A🔚%0A🔙%0A🔛%0A🔜%0A🆗%0A💯%0A🆕%0A🆙%0A🆒%0A🆓%0A🆖%0A🆑%0A🆘%0A🆔%0A🆚%0A🅰%0A🅱%0A🆎%0A🅾%0A📶%0A🎦%0A🔢%0A🔣%0A💱%0A🔠%0A🔡%0A🔤%0A🔀%0A🔁%0A🔂%0A🔃%0A::S
+__S.emj33::🈂%0A🈯%0A🈳%0A🈵%0A🈴%0A🈲%0A🉐%0A🈹%0A🈺%0A🈶%0A🈚%0A🈷%0A🈸%0A🉑%0A㊙%0A㊗%0A%20%20%20%20::S
+__S.emj30::🔝%0A🔚%0A🔙%0A🔛%0A🔜%0A🆗%0A💯%0A🆕%0A🆙%0A🆒%0A🆓%0A🆖%0A🆑%0A🆘%0A🆔%0A🆚%0A🅰%0A🅱%0A🆎%0A🅾%0A📶%0A🎦%0A🔢%0A🔣%0A💱%0A🔠%0A🔡%0A🔤%0A🔀%0A🔁%0A🔂%0A🔃%0A%20%20%20%20::S
 __ver::222::I
-__S.emj31::🔄%0A◀%0A▶%0A🔼%0A🔽%0A⏪%0A⏩%0A⤵%0A⤴%0A⬆%0A⬇%0A⬅%0A➡%0A▼%0A▲%0A◣%0A◥%0A◢%0A◤%0A◆%0A∆%0A∇%0A↗%0A↖%0A↘%0A↙%0A::S
+__S.emj31::🔄%0A◀%0A▶%0A🔼%0A🔽%0A⏪%0A⏩%0A⤵%0A⤴%0A⬆%0A⬇%0A⬅%0A➡%0A▼%0A▲%0A◣%0A◥%0A◢%0A◤%0A◆%0A∆%0A∇%0A↗%0A↖%0A↘%0A↙%0A%20%20%20%20::S
 __I.acx2::false::B
 __TE.to::400::S
 __S.emj38::🤗%0A🤔%0A🙄%0A🤐%0A🤓%0A🙃%0A🤒%0A🤕%0A🤑%0A🤖%0A🏻%0A🏼%0A🏽%0A🏾%0A🏿%0A🤘%0A📿%0A🦁%0A🦄%0A🦃%0A🦀%0A🦂%0A🧀%0A🌭%0A🌮%0A🌯%0A🍿%0A🍾%0A🏺%0A🕋%0A🕌%0A🕍%0A🏏%0A🏐%0A🏑%0A🏒%0A🏓%0A🏸%0A🏹%0A🛐%0A🕎%0A🙂%0A🙁%0A🖕%0A🖖%0A🛫%0A🛬%0A🛌%0A🏅%0A📸%0A🏴%0A🕵%0A🗣%0A🕴%0A🖐%0A👁%0A🗨%0A🗯%0A🕳%0A🕶%0A🛍%0A🐿%0A🕊%0A🕷%0A🕸%0A🏵%0A🌶%0A🍽%0A🗺%0A🏔%0A🏕%0A🏖%0A🏜%0A🏝%0A🏞%0A🏟%0A🏛%0A🏗%0A🏘%0A🏙%0A🏚%0A🖼%0A🛣%0A🛤%0A🛳%0A🛥%0A🛩%0A🛰%0A🛎%0A🛏%0A🛋%0A🕰%0A🌡%0A🌤%0A🌥%0A🌦%0A🌧%0A🌨%0A🌩%0A🌪%0A🌫%0A🌬%0A🎖%0A🎗%0A🎞%0A🎟%0A🏷%0A🏌%0A🏋%0A🏎%0A🏍%0A🕹%0A🎙%0A🎚%0A🎛%0A🖥%0A🖨%0A🖱%0A🖲%0A📽%0A🕯%0A🗞%0A🗳%0A🖋%0A🖊%0A🖌%0A🖍%0A🗂%0A🗒%0A🗓%0A🖇%0A🗃%0A🗄%0A🗑%0A🗝%0A🛠%0A🗜%0A🗡%0A🛡%0A🏳%0A🛢%0A🕉%0A⏸%0A⏹%0A⏺::S
 __S.emj39::-::S
 __S.emj36::🚾%0AⓂ%0A🚻%0A🚹%0A🚺%0A🚼%0A🚰%0A🚮%0A🅿%0A♿%0A🚭%0A🛂%0A🛄%0A🛅%0A🛃%0A🆑%0A🆘%0A🆔%0A🆚%0A🚫%0A🔞%0A📵%0A🚯%0A🚱%0A🚳%0A🚷%0A🚸%0A⛔%0A❎%0A✅%0A💟%0A☑%0A️✔%0A♻%0A📳%0A📴%0A🅰%0A🅱%0A🆎%0A🅾%0A💠%0A➿%0A♲%0A✳%0A❇%0A✴%0A👁‍🗨%0A🕳::S
 __S.emj37::💏%0A‍👩‍❤️‍💋‍👨%0A‍👨‍❤️‍💋‍👨%0A‍👩‍❤️‍💋‍👩%0A‍💑%0A‍👩‍❤️‍👨%0A‍👨‍❤️‍👨%0A‍👩‍❤️‍👩%0A‍👪%0A‍👨‍👩‍👦%0A‍👨‍👩‍👧%0A‍👨‍👩‍👧‍👦%0A‍👨‍👩‍👦‍👦%0A‍👨‍👩‍👧‍👧%0A‍👨‍👨‍👦%0A‍👨‍👨‍👧%0A‍👨‍👨‍👧‍👦%0A‍👨‍👨‍👦‍👦%0A‍👨‍👨‍👧‍👧%0A‍👩‍👩‍👦%0A‍👩‍👩‍👧%0A‍👩‍👩‍👧‍👦%0A‍👩‍👩‍👦‍👦%0A‍👩‍👩‍👧‍👧%0A‍👁‍🗨::S
-__S.emj34::♈%0A♉%0A♊%0A♋%0A♌%0A♍%0A♎%0A♏%0A♐%0A♑%0A♒%0A♓%0A⛎%0A🔯%0A::S
-__S.emj35::🕛%0A🕧%0A🕐%0A🕜%0A🕑%0A🕝%0A🕒%0A🕞%0A🕓%0A🕟%0A🕔%0A🕠%0A🕕%0A🕡%0A🕖%0A🕢%0A🕗%0A🕣%0A🕘%0A🕤%0A🕙%0A🕥%0A🕚%0A🕦%0A::S
+__S.emj34::♈%0A♉%0A♊%0A♋%0A♌%0A♍%0A♎%0A♏%0A♐%0A♑%0A♒%0A♓%0A⛎%0A🔯%0A%20%20%20%20::S
+__S.emj35::🕛%0A🕧%0A🕐%0A🕜%0A🕑%0A🕝%0A🕒%0A🕞%0A🕓%0A🕟%0A🕔%0A🕠%0A🕕%0A🕡%0A🕖%0A🕢%0A🕗%0A🕣%0A🕘%0A🕤%0A🕙%0A🕥%0A🕚%0A🕦%0A%20%20%20%20::S
 __I.t9t::true::B
 __CM.sz::16::S
 __I.updn::::S
@@ -191,20 +195,20 @@ __S.emj21::📷%0A🎥%0A📹%0A📼%0A📺%0A📟%0A📠%0A📻%0A📡%0A🔊%0
 __PK.tl::true::B
 __S.emj22::🏈%0A⚽%0A🏉%0A🏀%0A🎾%0A⚾%0A🎱%0A🎳%0A⛳%0A🔮%0A📰%0A🎨%0A🎬%0A🎤%0A🎧%0A🎼%0A🎵%0A🎶%0A🎹%0A🎻%0A🎺%0A🎷%0A🎸%0A📯%0A👾%0A🎮%0A🃏%0A🎴%0A🀄%0A🎲%0A🎯%0A⛺%0A🚵%0A🚴%0A🏁%0A🏇%0A🏆%0A🎿%0A🏂%0A🏊%0A🏄%0A🎣%0A🚶%0A🏃%0A💃%0A👯%0A🔬%0A🔭%0A♠%0A♥%0A♣%0A♦%0A⛸%0A⛹%0A⛸%0A⛹%0A🏏%0A🏐%0A🏑%0A🏒%0A🏓%0A🏸%0A🏹%0A🏅%0A🎖%0A🏌%0A🏋%0A🏎%0A🏍%0A🕹%0A🎙%0A📸%0A🕺%0A🤺%0A🤸%0A🤼%0A🤽%0A🤾%0A🤹%0A🤼%0A🥁::S
 __S.emj20::🎁%0A🎂%0A🎈%0A🎆%0A🎇%0A🎉%0A✨%0A🎍%0A💝%0A🎎%0A🎓%0A🎏%0A🎐%0A🎑%0A🎃%0A👻%0A🎅%0A🎄%0A🎋%0A🎊%0A🎌%0A🏮%0A🎒%0A🕎%0A🕉%0A🕋::S
-__I.ac::true::B
+__I.ac::false::B
 __I.adel::[HIDE]::S
 __S.emj29::🚙%0A🚘%0A🚗%0A🚕%0A🚖%0A🚛%0A🚚%0A🚨%0A🚓%0A🚔%0A🚒%0A🚑%0A🚐%0A🚲%0A🚵%0A🚴%0A🚶%0A🏃%0A🏇%0A⛵%0A🚤%0A🚣%0A⚓%0A🔱%0A🚀%0A✈%0A💺%0A🚁%0A🚂%0A🚊%0A🚉%0A🚎%0A🚆%0A🚄%0A🚅%0A🚈%0A🚇%0A🚝%0A🚋%0A🚃%0A🚎%0A🚌%0A🚍%0A🏊%0A🚡%0A🚟%0A🚠%0A🚜%0A🚏%0A🎫%0A🚦%0A🚥%0A⚠%0A🚧%0A🔰%0A⛽%0A🚫%0A🔞%0A📵%0A🚯%0A🚱%0A🚳%0A🚷%0A🚸%0A⛔%0A⛴%0A⛴%0A🛫%0A🛬%0A🛳%0A🛥%0A🛩%0A🏎%0A🏍%0A🛰%0A🛶%0A🛴%0A🛵%0A🛑::S
 __S.emj27::🏠%0A🏡%0A🏫%0A🏢%0A🏣%0A🏥%0A🏦%0A🏪%0A🏩%0A🏨%0A💒%0A⛪%0A🏬%0A🏤%0A🌇%0A🌆%0A🏯%0A🏰%0A⛺%0A🏭%0A🗼%0A🗿%0A🗾%0A🗻%0A🌄%0A🌅%0A🌃%0A🗽%0A🌉%0A🎠%0A🎡%0A⛲%0A🎢%0A🚢%0A🏮%0A💈%0A🎰%0A♨%0A🎪%0A🎭%0A📍%0A🚩%0A🏧%0A💹%0A🕋%0A🕌%0A🕍%0A🏕%0A🏖%0A🏜%0A🏝%0A🏞%0A🏟%0A🏛%0A🏗%0A🏘%0A🏙%0A🏚%0A🖼%0A🛏%0A🛋%0A🗺%0A🏔%0A🛣%0A🛤::S
 __C.sdi::true::B
-__S.emj28::🇺🇸%0A🇯🇵%0A🇰🇷%0A🇩🇪%0A🇨🇳%0A🇫🇷%0A🇪🇸%0A🇮🇹%0A🇷🇺%0A🇬🇧%0A🇦🇩%0A🇦🇪%0A🇦🇫%0A🇦🇬%0A🇦🇮%0A🇦🇱%0A🇦🇲%0A🇦🇴%0A🇦🇷%0A🇦🇸%0A🇦🇹%0A🇦🇺%0A🇦🇼%0A🇦🇿%0A🇧🇦%0A🇧🇧%0A🇧🇩%0A🇧🇪%0A🇧🇫%0A🇧🇬%0A🇧🇭%0A🇧🇮%0A🇧🇯%0A🇧🇲%0A🇧🇳%0A🇧🇴%0A🇧🇷%0A🇧🇸%0A🇧🇹%0A🇧🇼%0A🇧🇾%0A🇧🇿%0A🇨🇦%0A🇨🇨%0A🇨🇩%0A🇨🇫%0A🇨🇬%0A🇨🇭%0A🇨🇰%0A🇨🇱%0A🇨🇲%0A🇨🇳%0A🇨🇴%0A🇨🇷%0A🇨🇺%0A🇨🇻%0A🇨🇼%0A🇨🇽%0A🇨🇾%0A🇨🇿%0A🇩🇪%0A🇩🇯%0A🇩🇰%0A🇩🇲%0A🇩🇴%0A🇩🇿%0A🇪🇨%0A🇪🇪%0A🇪🇬%0A🇪🇷%0A🇪🇸%0A🇪🇹%0A🇫🇮%0A🇫🇯%0A🇫🇲%0A🇫🇴%0A🇫🇷%0A🇬🇦%0A🇬🇧%0A🇬🇩%0A🇬🇪%0A🇬🇬%0A🇬🇭%0A🇬🇮%0A🇬🇱%0A🇬🇲%0A🇬🇳%0A🇬🇶%0A🇬🇷%0A🇬🇹%0A🇬🇺%0A🇬🇼%0A🇬🇾%0A🇭🇰%0A🇭🇳%0A🇭🇷%0A🇭🇹%0A🇭🇺%0A🇮🇩%0A🇮🇪%0A🇮🇱%0A🇮🇲%0A🇮🇳%0A🇮🇴%0A🇮🇶%0A🇮🇷%0A🇮🇸%0A🇮🇹%0A🇯🇪%0A🇯🇲%0A🇯🇴%0A🇯🇵%0A🇰🇪%0A🇰🇬%0A🇰🇭%0A🇰🇮%0A🇰🇲%0A🇰🇳%0A🇰🇵%0A🇰🇷%0A🇰🇼%0A🇰🇾%0A🇰🇿%0A🇱🇦%0A🇱🇧%0A🇱🇨%0A🇱🇮%0A🇱🇰%0A🇱🇷%0A🇱🇸%0A🇱🇹%0A🇱🇺%0A🇱🇻%0A🇱🇾%0A🇲🇦%0A🇲🇨%0A🇲🇩%0A🇲🇪%0A🇲🇬%0A🇲🇭%0A🇲🇰%0A🇲🇱%0A🇲🇲%0A🇲🇳%0A🇲🇴%0A🇲🇵%0A🇲🇷%0A🇲🇸%0A🇲🇹%0A🇲🇺%0A🇲🇻%0A🇲🇼%0A🇲🇽%0A🇲🇾%0A🇲🇿%0A🇳🇦%0A🇳🇪%0A🇳🇫%0A🇳🇬%0A🇳🇮%0A🇳🇱%0A🇳🇴%0A🇳🇵%0A🇳🇷%0A🇳🇺%0A🇳🇿%0A🇴🇲%0A🇵🇦%0A🇵🇪%0A🇵🇫%0A🇵🇬%0A🇵🇭%0A🇵🇰%0A🇵🇱%0A🇵🇳%0A🇵🇷%0A🇵🇸%0A🇵🇹%0A🇵🇼%0A🇵🇾%0A🇶🇦%0A🇷🇴%0A🇷🇸%0A🇷🇺%0A🇷🇼%0A🇸🇦%0A🇸🇧%0A🇸🇨%0A🇸🇩%0A🇸🇪%0A🇸🇬%0A🇸🇮%0A🇸🇰%0A🇸🇱%0A🇸🇲%0A🇸🇳%0A🇸🇴%0A🇸🇷%0A🇸🇸%0A🇸🇹%0A🇸🇻%0A🇸🇽%0A🇸🇾%0A🇸🇿%0A🇹🇨%0A🇹🇩%0A🇹🇬%0A🇹🇭%0A🇹🇯%0A🇹🇰%0A🇹🇱%0A🇹🇲%0A🇹🇳%0A🇹🇴%0A🇹🇷%0A🇹🇹%0A🇹🇻%0A🇹🇼%0A🇹🇿%0A🇺🇦%0A🇺🇬%0A🇺🇸%0A🇺🇾%0A🇺🇿%0A🇻🇦%0A🇻🇨%0A🇻🇪%0A🇻🇬%0A🇻🇮%0A🇻🇳%0A🇻🇺%0A🇼🇸%0A🇾🇪%0A🇿🇦%0A🇿🇲%0A🇿🇼%0A::S
+__S.emj28::🇺🇸%0A🇯🇵%0A🇰🇷%0A🇩🇪%0A🇨🇳%0A🇫🇷%0A🇪🇸%0A🇮🇹%0A🇷🇺%0A🇬🇧%0A🇦🇩%0A🇦🇪%0A🇦🇫%0A🇦🇬%0A🇦🇮%0A🇦🇱%0A🇦🇲%0A🇦🇴%0A🇦🇷%0A🇦🇸%0A🇦🇹%0A🇦🇺%0A🇦🇼%0A🇦🇿%0A🇧🇦%0A🇧🇧%0A🇧🇩%0A🇧🇪%0A🇧🇫%0A🇧🇬%0A🇧🇭%0A🇧🇮%0A🇧🇯%0A🇧🇲%0A🇧🇳%0A🇧🇴%0A🇧🇷%0A🇧🇸%0A🇧🇹%0A🇧🇼%0A🇧🇾%0A🇧🇿%0A🇨🇦%0A🇨🇨%0A🇨🇩%0A🇨🇫%0A🇨🇬%0A🇨🇭%0A🇨🇰%0A🇨🇱%0A🇨🇲%0A🇨🇳%0A🇨🇴%0A🇨🇷%0A🇨🇺%0A🇨🇻%0A🇨🇼%0A🇨🇽%0A🇨🇾%0A🇨🇿%0A🇩🇪%0A🇩🇯%0A🇩🇰%0A🇩🇲%0A🇩🇴%0A🇩🇿%0A🇪🇨%0A🇪🇪%0A🇪🇬%0A🇪🇷%0A🇪🇸%0A🇪🇹%0A🇫🇮%0A🇫🇯%0A🇫🇲%0A🇫🇴%0A🇫🇷%0A🇬🇦%0A🇬🇧%0A🇬🇩%0A🇬🇪%0A🇬🇬%0A🇬🇭%0A🇬🇮%0A🇬🇱%0A🇬🇲%0A🇬🇳%0A🇬🇶%0A🇬🇷%0A🇬🇹%0A🇬🇺%0A🇬🇼%0A🇬🇾%0A🇭🇰%0A🇭🇳%0A🇭🇷%0A🇭🇹%0A🇭🇺%0A🇮🇩%0A🇮🇪%0A🇮🇱%0A🇮🇲%0A🇮🇳%0A🇮🇴%0A🇮🇶%0A🇮🇷%0A🇮🇸%0A🇮🇹%0A🇯🇪%0A🇯🇲%0A🇯🇴%0A🇯🇵%0A🇰🇪%0A🇰🇬%0A🇰🇭%0A🇰🇮%0A🇰🇲%0A🇰🇳%0A🇰🇵%0A🇰🇷%0A🇰🇼%0A🇰🇾%0A🇰🇿%0A🇱🇦%0A🇱🇧%0A🇱🇨%0A🇱🇮%0A🇱🇰%0A🇱🇷%0A🇱🇸%0A🇱🇹%0A🇱🇺%0A🇱🇻%0A🇱🇾%0A🇲🇦%0A🇲🇨%0A🇲🇩%0A🇲🇪%0A🇲🇬%0A🇲🇭%0A🇲🇰%0A🇲🇱%0A🇲🇲%0A🇲🇳%0A🇲🇴%0A🇲🇵%0A🇲🇷%0A🇲🇸%0A🇲🇹%0A🇲🇺%0A🇲🇻%0A🇲🇼%0A🇲🇽%0A🇲🇾%0A🇲🇿%0A🇳🇦%0A🇳🇪%0A🇳🇫%0A🇳🇬%0A🇳🇮%0A🇳🇱%0A🇳🇴%0A🇳🇵%0A🇳🇷%0A🇳🇺%0A🇳🇿%0A🇴🇲%0A🇵🇦%0A🇵🇪%0A🇵🇫%0A🇵🇬%0A🇵🇭%0A🇵🇰%0A🇵🇱%0A🇵🇳%0A🇵🇷%0A🇵🇸%0A🇵🇹%0A🇵🇼%0A🇵🇾%0A🇶🇦%0A🇷🇴%0A🇷🇸%0A🇷🇺%0A🇷🇼%0A🇸🇦%0A🇸🇧%0A🇸🇨%0A🇸🇩%0A🇸🇪%0A🇸🇬%0A🇸🇮%0A🇸🇰%0A🇸🇱%0A🇸🇲%0A🇸🇳%0A🇸🇴%0A🇸🇷%0A🇸🇸%0A🇸🇹%0A🇸🇻%0A🇸🇽%0A🇸🇾%0A🇸🇿%0A🇹🇨%0A🇹🇩%0A🇹🇬%0A🇹🇭%0A🇹🇯%0A🇹🇰%0A🇹🇱%0A🇹🇲%0A🇹🇳%0A🇹🇴%0A🇹🇷%0A🇹🇹%0A🇹🇻%0A🇹🇼%0A🇹🇿%0A🇺🇦%0A🇺🇬%0A🇺🇸%0A🇺🇾%0A🇺🇿%0A🇻🇦%0A🇻🇨%0A🇻🇪%0A🇻🇬%0A🇻🇮%0A🇻🇳%0A🇻🇺%0A🇼🇸%0A🇾🇪%0A🇿🇦%0A🇿🇲%0A🇿🇼%0A%20%20%20%20::S
 __S.emj25::🍭%0A☕%0A🍵%0A🍶%0A🍼%0A🍺%0A🍻%0A🍸%0A🍹%0A🍷%0A🍴%0A🍕%0A🍔%0A🍟%0A🍗%0A🍖%0A🍝%0A🍛%0A🍤%0A🍱%0A🍣%0A🍥%0A🍙%0A🍘%0A🍚%0A🍜%0A🍲%0A🍢%0A🍡%0A🍳%0A🍞%0A🍩%0A🍮%0A🍦%0A🍨%0A🍧%0A🎂%0A🍰%0A🍪%0A🍫%0A🍬%0A🍯%0A👅%0A👄%0A🦀%0A🦂%0A🧀%0A🌭%0A🌮%0A🌯%0A🍿%0A🍾%0A🍽%0A🥐%0A🥖%0A🥞%0A🥓%0A🥙%0A🥚%0A🥘%0A🥗%0A🥛%0A🥂%0A🥃%0A🥄::S
 __K.scm::0::S
 __S.emj26::🍉%0A🍎%0A🍏%0A🍊%0A🍋%0A🍒%0A🍇%0A🍓%0A🍑%0A🍈%0A🍌%0A🍐%0A🍍%0A🍠%0A🍆%0A🍅%0A🌽%0A🌰%0A🎃%0A%0A🌶%0A🥝%0A🥑%0A🥔%0A🥕%0A🥒%0A🥜::S
-__S.emj23::📥%0A📤%0A✉%0A📩%0A📨%0A📧%0A📫%0A📪%0A📬%0A📭%0A📮%0A📦%0A📝%0A📄%0A📃%0A📑%0A📊%0A📈%0A📉%0A📜%0A📋%0A📅%0A📆%0A📇%0A📁%0A📂%0A✁%0A✂%0A✃%0A✄%0A📌%0A📎%0A✒%0A✏%0A📏%0A📐%0A📕%0A📗%0A📘%0A📙%0A📓%0A📔%0A📒%0A📚%0A📖%0A🔖%0A📛%0A::S
-__S.emj24::💰%0A💲%0A💱%0A💴%0A💵%0A💷%0A💶%0A💳%0A💸%0A💍%0A💎%0A::S
-__I.obc::true::B
-__C.be::false::B
-__L.123::=123/[4D:$%20%20%20%20£¥€₹][Del]%0A*456#[4D:%%20%20%20%20%20‰%20‱](%0A+789[4D:-%20[MC:am]%20[MC:pm]][4D%3A%3A%20%20%20%20@℉;℃])%0A[Lock][ALTGR:,]0[SPACE][][SYM:.][Enter]::S
+__S.emj23::📥%0A📤%0A✉%0A📩%0A📨%0A📧%0A📫%0A📪%0A📬%0A📭%0A📮%0A📦%0A📝%0A📄%0A📃%0A📑%0A📊%0A📈%0A📉%0A📜%0A📋%0A📅%0A📆%0A📇%0A📁%0A📂%0A✁%0A✂%0A✃%0A✄%0A📌%0A📎%0A✒%0A✏%0A📏%0A📐%0A📕%0A📗%0A📘%0A📙%0A📓%0A📔%0A📒%0A📚%0A📖%0A🔖%0A📛%0A%20%20%20%20::S
+__S.emj24::💰%0A💲%0A💱%0A💴%0A💵%0A💷%0A💶%0A💳%0A💸%0A💍%0A💎%0A%20%20%20%20::S
+__I.obc::false::B
+__C.be::true::B
+__L.123::=123/[4D:$¥€£R][Del]%0A*456#[4D:%√π‰‱](%0A+789[4D:-%20[MC:am]%20[MC:pm]][4D%3A%3A%20%20%20%20@℉;℃])%0A[Lock][ALTGR:,]0[SPACE][][SYM:.][Enter],::S
 __I.AP::true::B
 __L.d123::2::S
 __I.as::true::B
@@ -220,14 +224,14 @@ __I.pr::true::B
 __S.emj18::💐%0A🌸%0A🌷%0A🍀%0A🌹%0A🌻%0A🌺%0A🍁%0A🍃%0A🍂%0A🌿%0A🌾%0A🍄%0A🌵%0A🌴%0A🌲%0A🌳%0A🌰%0A🌱%0A🌼%0A💠%0A🏵%0A🏝%0A🏞%0A🥀::S
 __I.ps::true::B
 __S.emj19::⛅%0A🌏%0A🌎%0A🌍%0A🌋%0A🌌%0A🌠%0A⭐%0A☀%0A☁%0A⚡%0A⛱%0A🌂%0A☔%0A⛄%0A⛇%0A⛈%0A☃%0A❄%0A❅%0A❆%0A🌀%0A🌁%0A🌈%0A🌊%0A🌐%0A🌞%0A🌝%0A🔆%0A🔅%0A🌚%0A🌑%0A🌒%0A🌓%0A🌔%0A🌕%0A🌖%0A🌗%0A🌘%0A🌛%0A🌙%0A🌜%0A🔭%0A🌤%0A🌥%0A🌦%0A🌧%0A🌨%0A🌩%0A🌪%0A🌫%0A🌬%0A🌡::S
-__K.gkd::5::S
+__K.gkd::0::S
 __S.emj16::🐰%0A🐇%0A🐶%0A🐩%0A🐕%0A🐾%0A🐺%0A🐭%0A🐁%0A🐀%0A🐹%0A🐨%0A🐻%0A🐷%0A🐖%0A🐽%0A🐗%0A🐄%0A🐮%0A🐃%0A🐂%0A🐴%0A🐎%0A🏇%0A🐫%0A🐪%0A🐑%0A🐏%0A🐐%0A🐘%0A🐼%0A🐧%0A🐦%0A🐤%0A🐥%0A🐣%0A🐔%0A🐓%0A%0A🦍%0A🦊%0A🦌%0A🦏%0A🦇%0A🦅%0A🦆%0A🦉%0A🦎%0A🦈%0A🦐%0A🦑%0A🦋::S
 __I.P::true::B
 __S.emj17::🙈%0A🙉%0A🙊%0A🐵%0A🐒%0A🐱%0A😺%0A😸%0A😻%0A😽%0A😼%0A🙀%0A😿%0A😹%0A😾%0A🐯%0A🐈%0A🐅%0A🐆%0A🐸%0A🐍%0A🐲%0A🐉%0A🐢%0A🐊%0A🐛%0A🐝%0A🐜%0A🐞%0A🐌%0A🐙%0A🐚%0A🐡%0A🐠%0A🐟%0A🐬%0A🐳%0A🐋%0A🦁%0A🦄%0A🦃%0A🦀%0A🦂%0A🐿%0A🕊%0A🕷%0A🕸::S
 __S.emj14::👟%0A👞%0A👡%0A👠%0A👢%0A👕%0A👔%0A👚%0A👗%0A🎽%0A👖%0A👘%0A👙%0A💼%0A👜%0A👝%0A👛%0A👓%0A🎀%0A🎩%0A🎓%0A👑%0A👒%0A🌂%0A💄%0A💋%0A💍%0A💎%0A💅%0A📿%0A🏅%0A🕶%0A🎖%0A🛍%0A🛒::S
 __K.sbl::true::B
 __I.pw::false::B
-__S.emj15::💖%0A💚%0A💛%0A💙%0A💜%0A💔%0A💗%0A💓%0A💕%0A💞%0A💘%0A💌%0A💝%0A💟%0A💏%0A💑%0A😻%0A😍%0A😘%0A😌%0A😚%0A😙%0A💒%0A💋%0A👅%0A👄%0A♥%0A❤%0A❥%0A❦%0A❧%0A♡%0A::S
+__S.emj15::💖%0A💚%0A💛%0A💙%0A💜%0A💔%0A💗%0A💓%0A💕%0A💞%0A💘%0A💌%0A💝%0A💟%0A💏%0A💑%0A😻%0A😍%0A😘%0A😌%0A😚%0A😙%0A💒%0A💋%0A👅%0A👄%0A♥%0A❤%0A❥%0A❦%0A❧%0A♡%0A%20%20%20%20::S
 __S.emj12::👍%0A👎%0A👌%0A👊%0A✊%0A✌%0A👋%0A✋%0A👐%0A👆%0A👇%0A👉%0A👈%0A☝%0A👏%0A✍%0A💪%0A🙌%0A🙏%0A💅%0A🙆%0A💁%0A💆%0A👂%0A👀%0A👃%0A👅%0A👄%0A☜%0A☞%0A%0A🤘%0A🖕%0A🖖%0A🖐%0A👁%0A🏻%0A🏼%0A🏽%0A🏾%0A🏿%0A🤝%0A🤞%0A🤙%0A🤛%0A🤜%0A🤚::S
 __S.emj13::🙋%0A🙅%0A🙎%0A🙍%0A🙇%0A🙌%0A🚻%0A🚹%0A🚺%0A🚼%0A🚶%0A🏃%0A💃%0A👫%0A👪%0A👬%0A👭%0A💏%0A💑%0A👯%0A🙆%0A💁%0A💆%0A💇%0A💅%0A👰%0A🛀%0A💈%0A👤%0A👥%0A🚵%0A🚴%0A🏇%0A🏂%0A🏊%0A🏄%0A%0A🛐%0A🛌%0A🏌%0A🏋%0A🕴%0A‍👩‍❤️‍💋‍👨%0A‍👨‍❤️‍💋‍👨%0A‍👩‍❤️‍💋‍👩%0A‍💑%0A‍👩‍❤️‍👨%0A‍👨‍❤️‍👨%0A‍👩‍❤️‍👩%0A‍👪%0A‍👨‍👩‍👦%0A‍👨‍👩‍👧%0A‍👨‍👩‍👧‍👦%0A‍👨‍👩‍👦‍👦%0A‍👨‍👩‍👧‍👧%0A‍👨‍👨‍👦%0A‍👨‍👨‍👧%0A‍👨‍👨‍👧‍👦%0A‍👨‍👨‍👦‍👦%0A‍👨‍👨‍👧‍👧%0A‍👩‍👩‍👦%0A‍👩‍👩‍👧%0A‍👩‍👩‍👧‍👦%0A‍👩‍👩‍👦‍👦%0A‍👩‍👩‍👧‍👧%0A🕺%0A🤺%0A🤸%0A🤼%0A🤽%0A🤾%0A🤹%0A🤼%0A🥁%0A🛶%0A🛒%0A🥇%0A🥈%0A🥉%0A🥊%0A🥋%0A🥅::S
 __S.sh::true::B
@@ -240,15 +244,15 @@ Info:
 
 Version: pie.1.0.2
 Language: pt
-layout: QWERTY
+layout: DIY-2
 Mode: 1
 DensityDpi: 440
 Density: 2.75
 scaledDensity: 2.8874998
 dpis: 394.705 x 394.307
 pixels: 1080 x 2265
-current size: 1080 x 756
-system dir: App: com.google.android.apps.docs
+current size: 1080 x 785
+system dir: App: null
 Android: 12
 Model: M2102J20SG
 Manufacturer: Xiaomi
