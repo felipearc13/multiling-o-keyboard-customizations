@@ -22,6 +22,7 @@ Customization of [Multiling O Keyboard](https://play.google.com/store/apps/detai
 **3** - In the [Multiling O Keyboard](https://play.google.com/store/apps/details?id=kl.ime.oh&hl=pt_BR&gl=US), go to "**Settings > Misc. > Import | Export > Settings**"  and paste the previously copied content
 
 ## Source
-- **Developer website**: http://honsoapps.appspot.com/1/1.html
+
 - **App Download**: https://play.google.com/store/apps/details?id=kl.ime.oh&hl
-- **Reddit**: https://www.reddit.com/r/MultilingOKeyboard/ 
+- **Developer website**: http://honsoapps.appspot.com/1/1.html
+- **Reddit Community**: https://www.reddit.com/r/MultilingOKeyboard/ 
