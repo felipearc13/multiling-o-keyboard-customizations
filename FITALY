@@ -1,0 +1,21 @@
+{
+  "title": "FITALY",
+  "onScreen": {
+    "main": [
+      "zvchwk",
+      "fitaly",
+      "[4D: [HOME][COPY][END][PASTE]][4D: [LEFT][UP][RIGHT][DOWN]]ne[4D: [DEL][CUT][FDEL][WDEL]][DEL]",
+      "gdorsb",
+      "qjumpx",
+      "[TOOL][SHIFT][SYM:,][SPACE][][][ALTGR:.][123:?][ENTER]"
+    ],
+    "sym": [
+      "£¥€$%^&*()№",
+      "~`{}\\_-=|+§",
+      "  ()  ",
+      "[]@#±/÷'\"«»",
+      "…<>!;[HIDE]",
+      "[TOOL][SHIFT][SYM:,][SPACE][][][ALTGR:.][123:?][ENTER]"
+    ]
+  }
+}
