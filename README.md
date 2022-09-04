@@ -3,7 +3,7 @@
 Customization of [Multiling O Keyboard](https://play.google.com/store/apps/details?id=kl.ime.oh&hl=pt_BR&gl=US) settings, addition of functionality like CRTL and TAB keys and user-friendly layout to ease the transition from other keyboards like [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=pt_BR&gl=US).
 
 - Inspired by Gboard's default dark theme
-<img src="https://user-images.githubusercontent.com/41086151/188286401-d5e4301d-98e9-4f36-84c1-ac5e749c7d00.png" width="500">
+<img src="https://raw.githubusercontent.com/felipearc13/Multiling-O-Keyboard-Customizations/main/screenshot/1.jpg" width="500">
 <br>
 
 - Gboard-inspired pop-up keys with Brazilian Portuguese language set (ç,ã,à,á,ó,ô etc)
