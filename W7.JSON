@@ -1,11 +1,11 @@
 {
-  "title": "W6",
+  "title": "W7",
   "onScreen": {
     "123": [
       "+-123%",
       "*/456[SPACE]",
       "()789[DEL]",
-      "[Lock]=0.[Enter]"
+      "[Lock]=,0.[Enter]"
     ],
     "prediction": {
       "swipe": true,
@@ -46,8 +46,10 @@
    " [EMOJI]",
    "[CLIPBOARD]",
    "[TRANSLATE]",
-    "‘…’",
-    "“…”",
+   "[CTRL]",
+   "[TAB]",
+    "'…'",
+    "\"…\"",
     "(…)",
     "{…}",
     "[…]",
