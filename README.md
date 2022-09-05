@@ -17,7 +17,7 @@ Customization of [Multiling O Keyboard](https://play.google.com/store/apps/detai
 ## Installation
 **1** - If you haven't already, install the [Multiling O Keyboard](https://play.google.com/store/apps/details?id=kl.ime.oh&hl)
 
-**2** - Copy the contents of the settings: [202209246.settings.mok.txt](https://github.com/felipearc13/OKeyboard-settings/blob/main/202209246.settings.mok.txt)
+**2** - Copy the contents of the [settings](https://github.com/felipearc13/OKeyboard-settings/blob/main/settings.mok.txt)
 
 **3** - In the [Multiling O Keyboard](https://play.google.com/store/apps/details?id=kl.ime.oh&hl=pt_BR&gl=US), go to "**Settings > Misc. > Import | Export > Settings**"  and paste the previously copied content
 
