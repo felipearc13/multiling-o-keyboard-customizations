@@ -1,0 +1,27 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Segredos e credenciais
+.env
+*.env
+*.pem
+*.key
+id_rsa
+id_rsa.pub
+*credentials*
+client_secret*.json
+
+# Artefatos de linguagens comuns
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+*.log
