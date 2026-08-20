@@ -69,3 +69,8 @@ teclado em uso, referenciadas pelo `README.md` via URL `raw.githubusercontent.co
 README depende do repositório estar público e da branch `main` existir).
 
 Não há build, lint ou testes — a "instalação" é manual, colando o conteúdo de `settings.mok.txt` dentro do app.
+
+## Aprendizado contínuo
+
+Sempre que um erro for identificado e corrigido numa sessão, registre aqui a causa e a correção,
+para não repetir. Sempre que uma abordagem funcionar bem, registre como referência para a próxima vez.
