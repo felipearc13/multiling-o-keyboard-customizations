@@ -70,6 +70,12 @@ README depende do repositório estar público e da branch `main` existir).
 
 Não há build, lint ou testes — a "instalação" é manual, colando o conteúdo de `settings.mok.txt` dentro do app.
 
+## README
+
+`README.md` (aqui e em qualquer subpasta) não registra dado que envelhece — versão, data,
+contagem, status atual. Aponte para o comando/arquivo que mostra o estado atual em vez de fixar
+um valor.
+
 ## Aprendizado contínuo
 
 Sempre que um erro for identificado e corrigido numa sessão, registre aqui a causa e a correção,
