@@ -25,3 +25,16 @@ __pycache__/
 venv/
 node_modules/
 *.log
+
+# Instaladores e executáveis — nenhum repositório aqui guarda o software que
+# instala. Regra adicionada em 07/09/2026, depois de encontrar instaladores
+# commitados por engano em totvs-rm e multiling-o.
+*.exe
+*.msi
+*.deb
+*.rpm
+*.appimage
+*.AppImage
+*.iso
+*.dmg
+*.msix
