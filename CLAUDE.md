@@ -2,6 +2,13 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+> ⚠️ **Repositório absorvido em 08/09/2026.** O conteúdo foi copiado para
+> [`infra-pessoal`](../infra-pessoal), em `s23-ultra/one-ui/teclado-multiling-o/` — leia o
+> `CLAUDE.md` de lá antes deste: na cópia, os screenshots do README passaram a usar caminho
+> relativo (aqui ainda dependem da URL `raw.githubusercontent.com`, ou seja, do repositório
+> continuar público e da branch `main` existir). Este repositório continua público; para
+> orientação de trabalho, prefira o `CLAUDE.md` de `infra-pessoal`.
+
 ## O que é este repositório
 
 Arquivos de configuração exportados do app Android [Multiling O Keyboard](https://play.google.com/store/apps/details?id=kl.ime.oh) — não é código, é customização de settings do app (tema escuro inspirado no Gboard, teclas extras CTRL/TAB, layout com acentuação em português). Repositório **público**.
