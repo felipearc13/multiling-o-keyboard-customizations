@@ -9,6 +9,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 > continuar público e da branch `main` existir). Este repositório continua público; para
 > orientação de trabalho, prefira o `CLAUDE.md` de `infra-pessoal`.
 
+## Idioma das respostas
+
+**Responda sempre em português do Brasil** — explicações, resumos, perguntas e mensagens de
+status —, mesmo quando o código, os logs ou este arquivo estiverem em inglês.
+
 ## O que é este repositório
 
 Arquivos de configuração exportados do app Android [Multiling O Keyboard](https://play.google.com/store/apps/details?id=kl.ime.oh) — não é código, é customização de settings do app (tema escuro inspirado no Gboard, teclas extras CTRL/TAB, layout com acentuação em português). Repositório **público**.
