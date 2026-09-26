@@ -1,0 +1,3 @@
+# Escopo do ai-memory (ctbamm.newarch.com.br) para clientes MCP estáticos.
+workspace = "default"
+project = "multiling-o-keyboard-customizations"
